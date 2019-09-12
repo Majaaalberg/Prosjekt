@@ -1,0 +1,40 @@
+body {
+  width: 85ch;
+  margin: auto;
+  font-family: Georgia, serif;
+}
+
+main  {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+h3  {
+  font-size: 16px;
+  margin-bottom: 70px;
+  font-weight: normal;
+  border-width: 2px;
+  border-bottom-style: solid;
+  border-color: black;
+  padding-bottom: 30px;
+}
+
+h1  {
+  margin-top: 60px;
+  margin-bottom: 40px;
+}
+
+h2 {
+  font-size: 22px;
+  margin-top: 40px;
+}
+
+h4 {
+  margin-bottom: 0;
+
+}
+
+footer  {
+  margin-top: 70px;
+  font-size: 16px;
+}
