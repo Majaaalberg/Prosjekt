@@ -1,0 +1,16 @@
+
+.default{
+  display: inline-block;
+  /* height: 25vh; */
+  font-size: 90%;
+  margin: 0 5% 0 5%;
+}
+
+.scrollbox{
+  text-align: center;
+  margin: 0 5% 0 5%;
+  height: 90vh;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
